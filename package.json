@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
+    "gen-tag-dev": "sh ./tag-dev.sh",
     "gen-tag": "sh ./tag.sh"
   }
 }
